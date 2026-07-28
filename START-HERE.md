@@ -13,7 +13,7 @@ Claude Codeのようなエージェントを自作しながら仕組みを学ぶ
 
 ## 動かし方
 ```
-cd /Users/tanumashuu/Documents/Codex/2026-06-24/handoff-next-chat-2026-06-24/work/cli-agent
+cd <このリポジトリのフォルダ>
 npx tsx agent-context.ts
 ```
 `>` が出たら日本語で話しかける（コマンドを打つ場所ではない）。終わるときは `exit` を1回。
